@@ -1,4 +1,4 @@
-# Resumo do que iremos fazer
+# Processamento Assíncrono de dados com XHR
 Repositório criado para o planejamento e execução da parte de processamento assíncrono de dados em que iremos utilizar o objeto XHR para a troca de requisições na página principal do e-commerce da empresa no Brasil através de diversas requisições para APIs REST.
 
 ## Resumo visual do ciclo
@@ -16,3 +16,13 @@ Repositório criado para o planejamento e execução da parte de processamento a
 6- XHR recebe resposta → evento onload dispara
 
 7- JavaScript atualiza a página dinamicamente
+
+## Alguns dos benefícios destacados neste processo
+
+Experiência do usuário mais rápida, sem recarregar a página
+
+Redução de consumo de dados, pois apenas partes da página são atualizadas
+
+Possibilidade de fazer múltiplas requisições ao mesmo tempo (assíncronas)
+
+Controle sobre cancelamento e tratamento de erros
